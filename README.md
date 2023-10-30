@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrisikesh-neogi" alt="hrisikesh-neogi" /></a> </p>
 
-- 🔭 I’m currently working on [database-connect pypi package](https://github.com/hrisikesh-neogi/Database-Hub)
+- 🔭 I’m currently working on [summarize](https://github.com/hrisikesh-neogi/summarizer)
 
-- 🌱 I’m currently learning **DeepLearning, CV, NLP**
+- 🌱 I’m currently learning **Generative AI, NLP**
 
-- 👯 I’m looking to collaborate on **machine-learning/cv-nlp projects**
+- 👯 I’m looking to collaborate on **machine-learning/-nlp projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hrisikesh-neogi](https://github.com/hrisikesh-neogi)
 
 - 📝 I regularly write articles on [python, Data Science](python, Data Science)
 
-- 💬 Ask me about **python, ML, Sql/NoSql databases, flask**
+- 💬 Ask me about **python, ML, Sql/NoSql databases, flask, NLP, GEN AI**
 
 - 📫 How to reach me **hrisikesh.neogi@gmail.com**
 
