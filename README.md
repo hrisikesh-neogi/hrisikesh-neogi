@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrisikesh Neogi</h1>
-<h3 align="center">A passionate Jr. Data Scientist @ineuron.ai. I love to write literature which is why I find myself creative enough in the lake of data too.</h3>
+<h3 align="center">A passionate Software Engineer( GenAI ) in CapitalNumbers. I love to write literature which is why I find myself creative enough in the lake of data too.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrisikesh-neogi&label=Profile%20views&color=0e75b6&style=flat" alt="hrisikesh-neogi" /> </p>
 
